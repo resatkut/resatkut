@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm REŞAT</h1>
 <h3 align="center">A passionate IOS Developer from TURKEY</h3>
 
-- 🔭 I’m currently working on **Swift -SwiftUI**
+- 🔭 I’m currently working on **Swift - SwiftUI**
 
 - 🌱 I’m currently learning **SwiftUI**
 
